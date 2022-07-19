@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/administrador-de-pacientes/static/css/main.3becedc6.css",
+    "main.js": "/administrador-de-pacientes/static/js/main.c415f487.js",
+    "static/js/787.9db30d1f.chunk.js": "/administrador-de-pacientes/static/js/787.9db30d1f.chunk.js",
+    "index.html": "/administrador-de-pacientes/index.html",
+    "main.3becedc6.css.map": "/administrador-de-pacientes/static/css/main.3becedc6.css.map",
+    "main.c415f487.js.map": "/administrador-de-pacientes/static/js/main.c415f487.js.map",
+    "787.9db30d1f.chunk.js.map": "/administrador-de-pacientes/static/js/787.9db30d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3becedc6.css",
+    "static/js/main.c415f487.js"
+  ]
+}
